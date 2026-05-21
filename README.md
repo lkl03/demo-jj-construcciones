@@ -1,2 +1,7 @@
-# demo-jj-construcciones
-Demo web para JJ Construcciones — diseñada por eterlab.
+# JJ Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
